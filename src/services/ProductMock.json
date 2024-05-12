@@ -1,0 +1,64 @@
+{
+   "id": 1,
+   "name": "Shirt",
+   "priceEuro": 12.99,
+   "images": [
+      {
+         "color": "COLOR1",
+         "url": "https://media.soliver.com/i/soliver/2141203.59N3_front?bg=rgb(239,239,239)&qlt=default&fmt=auto&w=388"
+      },
+      {
+         "color": "COLOR2",
+         "url": "https://media.soliver.com/i/soliver/2149775.59G9_front?bg=rgb(239,239,239)&qlt=default&fmt=auto&w=388"
+      },
+      {
+         "color": "COLOR3",
+         "url": "https://media.soliver.com/i/soliver/2149775.25G9_front?bg=rgb(239,239,239)&qlt=default&fmt=auto&w=388"
+      },
+      {
+         "color": "COLOR4",
+         "url": "https://media.soliver.com/i/soliver/2149775.84G9_front?bg=rgb(239,239,239)&qlt=default&fmt=auto&w=388"
+      }
+   ],
+   "availableProducts": [
+      {
+         "color": "COLOR1",
+         "colorPreview": "https://media.soliver.com/i/soliver/2142899.5978_flat?w=80&fmt=auto&qlt=default&fmt.jp2.qlt=40&fmt.webp.qlt=70",
+         "size":  ["S",  "L", "XL"]
+      },
+      {
+         "color": "COLOR2",
+         "colorPreview": "https://media.soliver.com/i/soliver/2142899.5309_flat?w=80&fmt=auto&qlt=default&fmt.jp2.qlt=40&fmt.webp.qlt=70",
+         "size": ["S", "M", "L"]
+      },
+      {
+         "color": "COLOR3",
+         "colorPreview": "https://media.soliver.com/i/soliver/2149775.25G9_flat?w=80&fmt=auto&qlt=default&fmt.jp2.qlt=40&fmt.webp.qlt=70",
+         "size":  ["M", "L", "XL"]
+      },
+      {
+         "color": "COLOR4",
+         "colorPreview": "https://media.soliver.com/i/soliver/2142899.7222_flat?w=80&fmt=auto&qlt=default&fmt.jp2.qlt=40&fmt.webp.qlt=70",
+         "size":  ["S", "M", "L", "XL"]
+      }
+   ],
+   "descriptions": [
+      {
+         "collectionHeader": "DETAILS",
+         "descriptions": [{ "headLine": "Product Details", "texts": ["Texture: textured pattern", "Collar: kent collar"] }]
+      },
+      {
+         "collectionHeader": "FIT",
+         "descriptions": [{ "headLine": "Fit", "texts": ["Fit: regular fit", "Backlength: 75 cm"] }]
+      },
+      {
+         "collectionHeader": "MATERIAL & CARE INSTRUCTIONS",
+         "descriptions": [{ "headLine": "Materialkomposition", "texts": ["Oberstoff: 100% Baumwolle", "Manschette/Bund: 100% Baumwolle"] },
+         { "headLine": "Material", "texts": ["Quality: lightweight"] }]
+      },
+      {
+         "collectionHeader": "SUSTAINABILITY",
+         "descriptions": [{ "headLine": "NACHHALTIG ZERTIFIZIERTE FASER", "texts": ["Im Bereich nachhaltig zertifizierter Fasern engagieren wir uns für Naturfasern aus erneuerbaren Quellen. Ihre Rohstoffe sind ressourcenschonend angebaut."] }]
+      }
+   ]
+}
